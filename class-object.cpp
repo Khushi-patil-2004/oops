@@ -59,11 +59,6 @@ public:
         username = uname;
         count++;
     }
-   void countuser()
-   {
-       
-       
-   }
     void addToCart(Product p) {
         cart.addProduct(p);
     }
